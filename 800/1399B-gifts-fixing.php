@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * @author Pablo Digiani <p.digiani@gmail.com>
+ * @link https://codeforces.com/problemset/problem/1399/B
+ * @version 1.0
+ */
+
+
 $tests = readline();
 $answers = [];
 for ($t = 1; $t <= $tests; $t++) {

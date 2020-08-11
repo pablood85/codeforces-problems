@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @author Pablo Digiani <p.digiani@gmail.com>
+ * @link https://codeforces.com/problemset/problem/11/A
+ * @version 1.0
+ */
+
 # read input 
 list($len, $inc) = sscanf(readline(), "%d %d");
 $seq_string = readline();
